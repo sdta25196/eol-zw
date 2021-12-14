@@ -1,0 +1,11 @@
+{
+  "name": "@eol-zw/tools",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "publish:n": "npm publish --access public"
+  },
+  "author": "",
+  "license": "ISC"
+}
